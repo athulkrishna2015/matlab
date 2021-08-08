@@ -1,0 +1,9 @@
+h=0;
+disp(h)
+i=1;
+while(i<=1000000)
+disp(i)
+j=h+i;
+h=i;
+i=j;
+end
